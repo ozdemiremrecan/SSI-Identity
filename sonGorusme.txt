@@ -1,0 +1,10 @@
+createWallet fonksiyonu    tip => user,issue,verifier    isim p.key,did,pr.key
+kimliğini okutup tcyi alcak tcyi alcak    sağda şu numaralı tcnizi okudum cüzdana yazdım. popup
+diplomanı al  
+
+
+üniversite de cüzdan yaratıcak. Cüzdan tipi issuer olucak. Public keyi blockchaine yazdık.
+diploma al bilgisi üniversiteye gidecek. Cevap olarak diplomayı aldık. 
+
+
+verification mesela işyeirne başvurduk. Diploma istedi. Diploma sor - usera soracak - diploma gönder- diploma alındı.

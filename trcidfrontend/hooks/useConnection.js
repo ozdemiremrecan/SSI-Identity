@@ -15,7 +15,7 @@ const useConnection = () => {
             return;
         }
 
-        const provider = new ethers.BrowserProvider(window.ethereum);
+        const provider = new ethers.providers.Web3Provider(window.ethereum);
 
         try {
             setIsConnecting(true);
